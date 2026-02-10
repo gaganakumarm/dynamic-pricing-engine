@@ -1,4 +1,4 @@
-# **Dynamic Pricing Engine: Revenue-Optimal Pricing Simulator**
+# **Dynamic Pricing Optimization Engine: Using Demand Elasticity & Causal Inference**
 
 [![Streamlit](https://img.shields.io/badge/Live-Dashboard-blue)](https://share.streamlit.io/gaganakumarm/dynamic-pricing-engine/main/app.py)
 [![Python](https://img.shields.io/badge/Python-3.12-blue)](https://www.python.org/)
